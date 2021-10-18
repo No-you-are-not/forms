@@ -1,0 +1,15 @@
+fieldset, button{
+    margin-top: 20px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+#age{
+    width: 40px;
+}
